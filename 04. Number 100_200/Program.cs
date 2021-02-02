@@ -5,7 +5,7 @@ namespace _04._Number_100_200
     class Program
     {
         static void Main(string[] args)
-        {
+        { 
             int num = int.Parse(Console.ReadLine());
 
             if (num < 100)
